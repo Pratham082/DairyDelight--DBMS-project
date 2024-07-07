@@ -59,21 +59,3 @@ customer_instance.sout()
 # Generate an invoice
 customer_instance.invoice(12345, "2023-07-01 10:00:00", "Credit Card", "john.doe@example.com", 50.0, "2023-07-05")
 ```
-
-## Installation
-
-To use this project, simply clone the repository and run the provided Python script.
-
-```bash
-git clone <repository_url>
-cd Dairy_Delight
-python Dairy_Delight_Interface.py
-```
-
-## Contributing
-
-Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
-
-## License
-
-This project is licensed under the MIT License.
